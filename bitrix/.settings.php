@@ -53,9 +53,9 @@ return array(
             array(
               'className' => '\\Bitrix\\Main\\DB\\MysqliConnection',
               'host' => 'localhost',
-              'database' => 'ci20642_saide',
-              'login' => 'ci20642_saide',
-              'password' => 'Saide@2000',
+              'database' => 'saide_website',
+              'login' => 'root',
+              'password' => 'Cameron.2000',
               'options' => 2,
             ),
 

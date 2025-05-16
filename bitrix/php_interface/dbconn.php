@@ -6,9 +6,9 @@ define("DBPersistent", false);
 
 $DBType = "mysql";
 $DBHost = "localhost";
-$DBLogin = "ci20642_saide";
-$DBPassword = "saide123";
-$DBName = "ci20642_saide";
+$DBLogin = "root";
+$DBPassword = "Cameron.2000";
+$DBName = "saide_website";
 $DBDebug = false;
 $DBDebugToFile = false;
 
