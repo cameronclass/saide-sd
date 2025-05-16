@@ -1,0 +1,4 @@
+2025:05:16 13:44:24: Start Loading
+2025:05:16 13:44:24: 500 product(s) has been loaded from 2 IB (memory usage: 18453640)
+2025:05:16 13:44:24: 500 product(s) has been loaded from 3 IB (memory usage: 18480904)
+2025:05:16 13:44:24: Loading was ended successfully (peek memory usage: 18665016)
